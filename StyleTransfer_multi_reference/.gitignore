@@ -1,0 +1,6 @@
+*.caffemodel
+.idea/
+*.png
+*.jpg
+*.dump
+*.pyc
